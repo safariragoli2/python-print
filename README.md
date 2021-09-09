@@ -1,2 +1,2 @@
 # python-print
-u prnt thing in python
+it is exactly as i say
